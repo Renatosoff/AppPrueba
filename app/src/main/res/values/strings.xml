@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LittleRabbit</string>
+    <string name="App_email">Ingrese su correo</string>
+    <string name="App_password">Ingrese Constraseña</string>
+    <string name="App_btn">Ingresar</string>
+    <string name="App_crearUser">Crear Cuenta</string>
+    <string name="Repetir_txt">Repetir contraseña</string>
+    <string name="pass">Contraseña</string>
+    <string name="create_email">Email</string>
+    <string name="name_user">Nombre</string>
+    <string name="log">Registrarse</string>
+    <string name="back">Atras</string>
+    <string name="Producto3">Sombra de ojos</string>
+    <string name="Producto2">Delineadores</string>
+    <string name="Producto1">Esponja para base</string>
+
+</resources>

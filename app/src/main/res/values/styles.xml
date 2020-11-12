@@ -1,0 +1,41 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.edtPrueba" parent="AppTheme">
+        <item name="android:drawableTint">@color/colorText</item>
+        <item name="android:drawablePadding">15dp</item>
+        <item name="android:textColorHint">@color/colorText</item>
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:backgroundTint">@color/colorText</item>
+        <item name="android:layout_marginStart">20dp</item>
+        <item name="android:layout_marginEnd">20dp</item>
+        <item name="android:textSize">16dp</item>
+    </style>
+
+    <style name="AppTheme.btnPrueba" parent="AppTheme">
+        <item name="android:layout_marginStart">20dp</item>
+        <item name="android:layout_marginEnd">20dp</item>
+        <item name="android:background">@color/colorPrimaryDark</item>
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:textSize">18dp</item>
+    </style>
+    <style name="AppTheme.txtPrueba" parent="AppTheme">
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+
+    <style name="AppTheme.btnAtras" parent="AppTheme">
+        <item name="android:layout_marginStart">150dp</item>
+        <item name="android:layout_marginEnd">150dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:background">@color/colorPrimaryDark</item>
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:textSize">18dp</item>
+    </style>
+</resources>
